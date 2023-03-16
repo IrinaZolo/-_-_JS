@@ -1,17 +1,17 @@
 let images = [{
-    url: "../images/admiral.jpg",
+    url: "https://irinazolo.github.io/Slider_JS/images/admiral.jpg",
     city: "Rostov-on-Don<br>LCD admiral",
     area: "81 m2",
     repair_time: "3.5 months",
     repair_cost: "Upon request"
   }, {
-    url: "../images/thieves.jpg",
+    url: "https://irinazolo.github.io/Slider_JS/images/thieves.jpg",
     city: `Sochi<br>Thieves`,
     area: "105 m2",
     repair_time: "4 months",
     repair_cost: "Upon request"
   }, {
-    url: "../images/patriotic.jpg",
+    url: "https://irinazolo.github.io/Slider_JS/images/patriotic.jpg",
     city: "Rostov-on-Don<br>Patriotic",
     area: "93 m2",
     repair_time: "3 months",
